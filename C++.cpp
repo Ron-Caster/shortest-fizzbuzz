@@ -1,5 +1,6 @@
  void test(int n)
  {
+  cout<<"test_fizz";
   bool is_fizz = test_fizz(n);
   bool is_buzz = test_buzz(n);
   if (is_fizz || is_buzz) {
